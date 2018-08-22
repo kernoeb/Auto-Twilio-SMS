@@ -2,6 +2,8 @@
 Programme Python pour recevoir automatiquement (et gratuitement*) des SMS via **Twilio**.
 Ce programme est capable de réaliser des recherches via **Wikipedia** ou de répondre à de simples calculs.
 
+*Très utile si vous n'avez pas Internet sur votre smartphone...*
+
 Le programme de **Lizpetrov** est plus complet, mais je l'ai modifié en fonction de mes besoins!
 Thanks so much Lizpetrov <3 
 Forked from https://github.com/lizpetrov
