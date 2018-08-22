@@ -24,7 +24,7 @@ Depuis votre téléphone, envoyez simplement au numéro "acheté" les commandes 
 "Sent from your Twilio trial account - 7.0"
 
 
-Plus d'informations:
+### Plus d'informations:
 
 https://www.twilio.com/blog/2016/09/how-to-receive-and-respond-to-a-text-message-with-python-flask-and-twilio.html
 
