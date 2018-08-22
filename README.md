@@ -2,6 +2,10 @@
 Programme Python pour recevoir automatiquement (et gratuitement*) des SMS via **Twilio**.
 Ce programme est capable de réaliser des recherches via **Wikipedia** ou de répondre à de simples calculs.
 
+Le programme de **Lizpetrov** est plus complet, mais je l'ai modifié en fonction de mes besoins!
+Thanks so much Lizpetrov <3 
+Forked from https://github.com/lizpetrov
+
 ## Installation:
 1. Créer un compte Twilio
 2. Obtenir (gratuitement) un numéro de téléphone
@@ -23,10 +27,5 @@ Depuis votre téléphone, envoyez simplement au numéro "acheté" les commandes 
 Plus d'informations:
 https://www.twilio.com/blog/2016/09/how-to-receive-and-respond-to-a-text-message-with-python-flask-and-twilio.html
 
-
-
-Le programme de **Lizpetrov** est plus complet, mais je l'ai modifié en fonction de mes besoins!
-Thanks so much Lizpetrov <3 
-Forked from https://github.com/lizpetrov
 
 * Twilio dispose d'un système de "Trial". Libre à votre conscience de continuer l'offre (payante) ou de se recréer un compte. Twilio fonctionne très bien, utilisez de façon légale leur service! Merci! N'hésitez pas à améliorer mon programme! :)
