@@ -61,7 +61,7 @@ def getReply(message):
            answer = "Impossible!"
     
     #else:
-    #    answer = "lol"
+    #    answer = "test"
     
     # Évite les longs messages, et ainsi de "consommer" l'offre gratuite Twilio
     # À commenter/décommenter/modifier selon l'envie.
