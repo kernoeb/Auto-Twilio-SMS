@@ -1,8 +1,8 @@
 # SMS-twilio-server
 Programme Python pour recevoir automatiquement (et gratuitement*) des SMS via **Twilio**.
-Ce programme est capable de faire des recherches **Wikipedia** et de réaliser des calculs.
+Ce programme est capable de réaliser des recherches via **Wikipedia** ou de répondre à de simples calculs.
 
-## Utilisation:
+## Installation:
 1. Créer un compte Twilio
 2. Obtenir (gratuitement) un numéro de téléphone
 3. Rendez-vous sur la page https://www.twilio.com/console/phone-numbers 
@@ -10,6 +10,15 @@ Ce programme est capable de faire des recherches **Wikipedia** et de réaliser d
 5. Sur votre machine, installez Python3 (au minimum) https://www.python.org/
 6. "pip install -r requirements.txt" *(pour installer les dépendances)*
 7. "python3 sms.py"
+
+## Utilisation
+Depuis votre téléphone, envoyez simplement au numéro "acheté" les commandes suivantes:
+- "wiki Paris" vous renverra:
+"Sent from your Twilio trial account - Christophe Martichon, dit Christophe Maé, est un auteur-compositeur-interprète français né le 16 octobre 1975 à Carpentras (Vaucluse). https://fr.wikipedia.org/wiki/Christophe_Maé"
+
+- "calc 14/2" vous renverra:
+"Sent from your Twilio trial account - 7.0"
+
 
 Plus d'informations:
 https://www.twilio.com/blog/2016/09/how-to-receive-and-respond-to-a-text-message-with-python-flask-and-twilio.html
