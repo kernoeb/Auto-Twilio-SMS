@@ -25,6 +25,7 @@ Depuis votre téléphone, envoyez simplement au numéro "acheté" les commandes 
 
 
 Plus d'informations:
+
 https://www.twilio.com/blog/2016/09/how-to-receive-and-respond-to-a-text-message-with-python-flask-and-twilio.html
 
 https://www.twilio.com/docs/quickstart/python/devenvironment
