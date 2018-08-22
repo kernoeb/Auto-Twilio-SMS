@@ -1,4 +1,4 @@
-# SMS-twilio-server
+# Auto-Twilio-SMS
 Programme Python pour recevoir automatiquement (et gratuitement*) des SMS via **Twilio**.
 Ce programme est capable de réaliser des recherches via **Wikipedia** ou de répondre à de simples calculs.
 
