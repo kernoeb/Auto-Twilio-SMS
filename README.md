@@ -26,6 +26,9 @@ Depuis votre téléphone, envoyez simplement au numéro "acheté" les commandes 
 
 Plus d'informations:
 https://www.twilio.com/blog/2016/09/how-to-receive-and-respond-to-a-text-message-with-python-flask-and-twilio.html
+https://www.twilio.com/docs/quickstart/python/devenvironment
+https://www.twilio.com/docs/quickstart/python/sms/sending-via-rest
+https://www.twilio.com/docs/quickstart/python/sms/hello-monkey
 
 
 * Twilio dispose d'un système de "Trial". Libre à votre conscience de continuer l'offre (payante) ou de se recréer un compte. Twilio fonctionne très bien, utilisez de façon légale leur service! Merci! N'hésitez pas à améliorer mon programme! :)
