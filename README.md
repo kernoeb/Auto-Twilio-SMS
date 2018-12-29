@@ -19,7 +19,7 @@ Forked from https://github.com/lizpetrov
 
 ## Utilisation
 Depuis votre téléphone, envoyez simplement au numéro "acheté" les commandes suivantes:
-- "wiki Paris" vous renverra:
+- "wiki Christophe Maé" vous renverra:
 "Sent from your Twilio trial account - Christophe Martichon, dit Christophe Maé, est un auteur-compositeur-interprète français né le 16 octobre 1975 à Carpentras (Vaucluse). https://fr.wikipedia.org/wiki/Christophe_Maé"
 
 - "calc 14/2" vous renverra:
